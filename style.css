@@ -1,0 +1,38 @@
+nav{
+display: flex;
+text-decoration: none;
+justify-content: space-between;
+align-items: center;
+margin: 0px 90px;
+}
+span{
+    color: orangered;
+}
+nav>ul{
+    display: flex;
+}
+nav>ul>li{
+    list-style: none;
+    margin-right: 50px;
+    text-align: center;
+
+}
+.kayem{
+    background-color: orange;
+    border-radius: 5px;
+    height: 25px;
+    width: 70px;
+    color: azure;
+    border: 0px;
+}
+.header{
+    background-color: antiquewhite;
+}
+.shakib{
+    display: flex;
+    background-color: antiquewhite;
+
+}
+.sayem{
+    background-color: orange;
+}
